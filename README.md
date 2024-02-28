@@ -1,6 +1,6 @@
 # Gerador de Carteira Bitcoin
 
-Este é um script em JavaScript para gerar uma carteira Bitcoin usando hierarquia determinística, mnemônicos e bibliotecas específicas para operações com Bitcoin.
+Código em Javascript para gerar uma carteira Bitcoin usando hierarquia determinística, mnemônicos e bibliotecas específicas para operações com Bitcoin.
 
 
 ## Pré-Requisitos
